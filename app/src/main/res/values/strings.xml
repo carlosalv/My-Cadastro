@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cadastro de Alunos</string>
+    <string name="textConfiguracao">Configuração</string>
+    <string name="btnAdicionar">Adicionar</string>
+    <string name="btnSalvar"> Salvar</string>
+    <string name="foto">Foto Perfil</string>
+    <string name="nome">Nome</string>
+    <string name="nome_aluno">Digite o nome do aluno</string>
+    <string name="telefone">Telefone</string>
+</resources>
+

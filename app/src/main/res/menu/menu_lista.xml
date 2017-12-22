@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/txtConfiguracoes"
+        android:title="@string/textConfiguracao"
+        app:showAsAction="never"/>
+
+    <item
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_person_add"
+        android:id="@+id/btnAdicionar"
+        android:title="@string/btnAdicionar"
+        />
+
+</menu>
